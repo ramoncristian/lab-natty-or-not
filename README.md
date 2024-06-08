@@ -4,7 +4,7 @@
 Mudança de voz de uma música por uma inteligência articial para simular como se fosse o Plankton do desenho Bob Espooja cantando.
 
 ## 🤖 Tecnologias Utilizadas
-tryparrotai.com para mudar a voz
+tryparrotai.com para mudar a voz e
 designer.microsoft.com/image-creator para criar a imagem do Plankton chorando
 
 ## 🧐 Processo de Criação
